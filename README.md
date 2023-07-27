@@ -6,5 +6,5 @@
 Дозапись в файл: 16.07.2023 -> Hello, world
 
 Скомпилируйте и запустите посредством CLI
-javac -sourcepath ./src -d myout src/ru/gb/recording_system/Main.java
-java -classpath ./myout ru.gb.recording_system.Main  
+* javac -sourcepath ./src -d myout src/ru/gb/recording_system/Main.java
+* java -classpath ./myout ru.gb.recording_system.Main  
